@@ -1,0 +1,11 @@
+Weather REST app
+
+version 1.1 25.02.2020
++ added REST controller
++ added REST exception handler
++ properties moved to application.properties file
++ added javadoc comments
+
+
+version 1.0 22.02.2020
++ first release
